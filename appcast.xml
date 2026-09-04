@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Wnote</title>
+        <item>
+            <title>0.3.0</title>
+            <pubDate>Fri, 04 Sep 2026 12:04:15 +0200</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/swidmann/wnote-releases/releases/download/v0.3.0/Wnote-0.3.0.dmg" length="2141530" type="application/octet-stream" sparkle:edSignature="yDDHCWDCfoo8f82q1B6QVuMRdXESS6Wi8X/e91h2fw49A0Cfxfq/OQ3NOctao4wj8U10JS6LYmeZKnIO8qw1Aw=="/>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: BenMSUby7H0KLO4atEAq2eTULkX/H2xWqsce28AbnhqenXQm3yiQTh32EvVwlZtxQmAbucWEc3gglrFtcVvBAA==
+length: 796
+-->
